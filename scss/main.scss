@@ -60,61 +60,147 @@ textarea {
 
   body{
     background: $white;
-    color:white;
     text-align: center;
 
-//     p{
-//       color:green;
-//     }
-//
-//     h1{
-//       color:blue;
-//     }
-//
-// .nav-link{
-//   color:black;
-//   font-family: 'Oxygen', sans-serif;
-//
-// }
-//
-// .nav-link:hover{
-//   color:white;
-//   background-color: black;
-// }
+.collapse{
+  background-color: white;
+  border:none;
+}
 
-// .input-group{
-//   margin-top: 15px;
-//   margin-bottom: 20px;
-//   text-align:center;
-//   outline:solid 2px red;
-// }
+.container-fluid{
+  background-color: white;
+  font-family: 'Oxygen', sans-serif;
+}
 
-// .btn:hover{
-//   background-color: rgb(49, 50, 52);
-//   color:white;
-// }
+.form-group{
+  font-family: 'Oxygen', sans-serif;
+}
+
+.btn{
+  font-family: 'Oxygen', sans-serif;
+
+}
+
+.navbar-form{
+  margin-bottom: 30px;
+}
+
+.navbar-default .navbar-nav a{
+  color:red;
+}
 //
 // .btn{
-//   font-family: 'Oxygen', sans-serif;
-// }
-//
-// .form-control{
-//   font-family: 'Oxygen', sans-serif;
-// }
-//
-// .row{
-//   text-align: center;
-// }
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
+//   background-color: rgb(179, 172, 170);}
+
+.btn:hover{
+  color:white;
+  background-color: rgb(74, 68, 69);
+}
+
+
+.emory h3{
+  color:rgb(25, 83, 195);
+  font-size: 60px;
+  font-family: 'Oxygen', sans-serif;
+}
+
+.bestsellers h3{
+  color: black;
+  font-size: 60px;
+  font-family: 'Oxygen', sans-serif;
+
+}
+
+.pillows h3{
+  font-size: 60px;
+  font-family: 'Oxygen', sans-serif;
+}
+
+.btn{
+  color:black;
+  border:none;
+  background-color: white;
+  font-family: 'Oxygen', sans-serif;
+  top:100px;
+}
+
+.btn:hover{
+  background-color: rgb(172, 172, 171);
+}
+
+.btnsubmit{
+  background-color: rgb(192, 193, 192);
+}
+
+.carousel-caption {
+    // margin:0px;
+    bottom:200px;
+}
+
+.btn1{
+  background-color: rgb(205, 205, 200);
+  color:black;
+}
+
+.btn1:hover{
+  background-color: rgb(80, 84, 83);
+  color:white;
+  text-decoration: none;
+}
+
+.caption p{
+  font-size: 40px;
+}
+
+.row{
+  margin-top: 40px;
+}
+
+header{
+  font-size: 60px;
+  font-family: 'Oxygen', sans-serif;
+  margin-top: 20px;
+}
+
+h1{
+color: rgb(93, 96, 94)
+}
+
+ footer{
+  background-color: gray;
+  text-align: center;
+  margin: auto;
+  color:white;
+  margin-bottom: 20px;
+}
+
+.panel-heading{
+  background-color: pink;
+}
+
+.panel-title{
+  color:rgb(51, 52, 54);
+  text-decoration: none;
+  font-family: 'Oxygen', sans-serif;
+
+}
+
+.panel-title a:hover{
+color:white;
+text-decoration: none;
+background-color: black;
+}
+
+.panel-body{
+  font-family: 'Oxygen', sans-serif;
+
+}
+
+footer{
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
+
 
 
 
